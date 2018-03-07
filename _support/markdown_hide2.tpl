@@ -33,6 +33,7 @@
 {% endblock %}
 {% endblock execute_result %}
 
+
 {% block stream %}
 {{ output.text | indent }}
 {% endblock stream %}
