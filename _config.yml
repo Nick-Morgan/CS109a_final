@@ -1,6 +1,6 @@
 theme: jekyll-theme-primer
 title: CS109a Final Project
-description: developing a restaurant recommendation engine for Yelp 
+description: Developing a restaurant recommendation engine for Yelp 
 baseurl:
 markdown: kramdown
 kramdown:
